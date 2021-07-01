@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CVN Juan Carlos Alonso Valenzuela.pdf
+  link: uploads/CVN Juan_Carlos_Alonso_Valenzuela.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "javalenzuela@us.es"
@@ -74,4 +74,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/uploads/CVN Juan Carlos Alonso Valenzuela.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVN Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}}resumé{{< /staticref >}}.
