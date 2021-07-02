@@ -86,6 +86,6 @@ email: "javalenzuela@us.es"
 highlight_name: false
 ---
 
-Juan Carlos Alonso Valenzuela es un investigador perteneciente al Applied Software Engineering (ISA) Research Group. Estudió un grado en Ingeniería del Software en la Universidad de Sevilla, cursando el último año en la Universidad de Mannheim, Alemania.
+Juan Carlos Alonso Valenzuela es un investigador perteneciente al {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}}Applied Software Engineering (ISA) Research Group{{< /staticref >}}. Estudió un grado en Ingeniería del Software en la {{< staticref "https://www.us.es" "newtab" >}}Universidad de Sevilla{{< /staticref >}}, cursando el último año en la {{< staticref "https://www.uni-mannheim.de" "newtab" >}}Universidad de Mannheim, Alemania.{{< /staticref >}}
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CVN_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Descarga mi CV{{< /staticref >}}.
