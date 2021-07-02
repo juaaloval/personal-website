@@ -6,7 +6,7 @@ title: Juan Carlos Alonso Valenzuela
 superuser: true
 
 # Role/position/tagline
-role: Investigador
+role: Estudiante de Máster (A partir de Septiembre 2021)
 
 # Organizations/Affiliations to show in About widget
 organizations:
