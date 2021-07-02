@@ -29,7 +29,7 @@ experience:
     location: Seville, Spain
     date_start: '2020-11-01'
     date_end: ''
-    description:
+    # description:
   - title: Erasmus Scholarship
     company: University of Mannheim
     company_url: 'https://www.uni-mannheim.de/dws/'
@@ -37,12 +37,7 @@ experience:
     location: Mannheim, Germany
     date_start: '2019-09-01'
     date_end: '2020-06-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: I completed the fourth year of my bachelor’s degree at the University of Mannheim, Germany, where I attended a master's program in Data Science.
         
   - title: Bachelor Degree in Software Engineering
     company: University of Seville
@@ -51,7 +46,7 @@ experience:
     location: Seville, Spain
     date_start: '2016-09-01'
     date_end: '2019-06-28'
-    description: Lorem ipsum
+    # description: Lorem ipsum
 design:
   columns: '2'
 ---

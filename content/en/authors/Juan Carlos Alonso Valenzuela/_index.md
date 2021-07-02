@@ -86,8 +86,6 @@ email: "javalenzuela@us.es"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Juan Carlos Alonso Valenzuela es un investigador perteneciente al Applied Software Engineering (ISA) Research Group. Estudió un grado en Ingeniería del Software en la Universidad de Sevilla, cursando el último año en la Universidad de Mannheim, Alemania.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CVN_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV{{< /staticref >}}.
