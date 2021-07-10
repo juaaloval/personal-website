@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Juan Carlos Alonso</title>
+    <link>https://juancarlosalonsovalenzuela.github.io/categories/</link>
+      <atom:link href="https://juancarlosalonsovalenzuela.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://juancarlosalonsovalenzuela.github.io/media/icon_hu005ce2b89c28722f68c8de77a5fb2d17_2437_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://juancarlosalonsovalenzuela.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
