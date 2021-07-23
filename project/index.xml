@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Juan Carlos Alonso</title>
+    <link>https://juancarlosalonsovalenzuela.github.io/project/</link>
+      <atom:link href="https://juancarlosalonsovalenzuela.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juancarlosalonsovalenzuela.github.io/media/icon_hu005ce2b89c28722f68c8de77a5fb2d17_2437_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://juancarlosalonsovalenzuela.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Tecnologías para Sistemas Orientados a Servicios Altamente Fiables y Regulados por Contratos de Usuario</title>
+      <link>https://juancarlosalonsovalenzuela.github.io/project/index2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://juancarlosalonsovalenzuela.github.io/project/index2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tecnologías para Mejorar la Fiabilidad, Personalización y Costes de Operación de Aplicaciones Basadas en Servicios Software y Servicios Basados en Conocimiento</title>
+      <link>https://juancarlosalonsovalenzuela.github.io/project/index1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://juancarlosalonsovalenzuela.github.io/project/index1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
