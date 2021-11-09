@@ -6,7 +6,7 @@ title: Juan Carlos Alonso Valenzuela
 superuser: true
 
 # Role/position/tagline
-role: Master Student (Starting in September 2021)
+role: PhD Student and Teaching Assistant at the University of Seville
 
 # Organizations/Affiliations to show in About widget
 organizations:
