@@ -89,6 +89,6 @@ highlight_name: false
 ---
 
 
-I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}} (Finished in July 2021), and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany.{{< /staticref >}} In september 2021, I will start attending a master in Data Science in the University of Seville. I am currently working as an IT technician in the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}}Applied Software Engineering (ISA) Research Group{{< /staticref >}}.
+I am a PhD student at the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}} Applied Software Engineering (ISA) Research Group{{< /staticref >}}. My thesis focuses on creating new techniques for Automated testing of Web APIs by using Artificial Intelligence and Deep Learning. I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany{{< /staticref >}}. I am currently working as a Teaching Assistant in the University of Seville.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CVN_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV{{< /staticref >}}.

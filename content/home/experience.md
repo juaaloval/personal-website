@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant
+    company: University of Seville
+    company_url: 'https://www.us.es'
+    company_logo: us
+    location: Seville, Spain
+    date_start: '2021-11-09'
+    date_end: ''
+    # description:
   - title: IT Technician
     company: ISA Group
     company_url: 'https://www.isa.us.es/3.0'
     company_logo: isa
     location: Seville, Spain
     date_start: '2020-11-01'
-    date_end: ''
+    date_end: '2021-11-08'
     # description:
   - title: Erasmus Scholarship
     company: University of Mannheim

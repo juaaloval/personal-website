@@ -25,9 +25,17 @@ date_format: Jan 2006
 item:
 # - certificate_url: https://www.datacamp.com
 - date_end: ""
+  # certificate_url: https://www.coursera.org
+  date_start: "2021-11-05"
+  description: ""
+  organization: University of Seville
+  organization_url: 'https://www.us.es'
+  title: Award for best Bachelor Thesis of my promotion
+  url: "https://idus.us.es/handle/11441/127048"
+- date_end: ""
   date_start: "2019-09-27"
   description: ""
-  organization: University_of_Mannheim
+  organization: University of Mannheim
   organization_url: https://www.uni-mannheim.de/dws/
   title: 'Winner of the 2019 Mannheim Hackathon Industrial Data Analytics'
   url: "https://www.uni-mannheim.de/dws/"
