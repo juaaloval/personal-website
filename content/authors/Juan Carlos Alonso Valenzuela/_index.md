@@ -44,12 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-#- icon: reddit
-#  icon_pack: fab
-#  link: insert link
-#- icon: twitter
-#  icon_pack: fab
-#  link: insert link
+# - icon: reddit
+#   icon_pack: fab
+#   link: insert link
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Juan_C_Alonso
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -92,3 +92,12 @@ highlight_name: false
 I am a PhD student at the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}} Applied Software Engineering (ISA) Research Group{{< /staticref >}}. My thesis focuses on creating new techniques for Automated testing of Web APIs by using Artificial Intelligence and Deep Learning. I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany{{< /staticref >}}. I am currently working as a Teaching Assistant in the University of Seville.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CVN_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV{{< /staticref >}}.
+
+### Research profiles:
+- {{< staticref "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4HvZgrg2miGMw6WY5WekrEi8iw5UL7JNULyBrqsmj23Yue2ubslGK5SiMzis337ooHIIsHRzIoRELQ6nceLarOLVr1HcUDYbNi8BCQg-1uXVohlT0&user=Ro74TWgAAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}
+- {{< staticref "https://dblp.uni-trier.de/pid/299/8769.html" "newtab" >}}DBLP{{< /staticref >}}
+- {{< staticref "https://orcid.org/0000-0002-1177-9262" "newtab" >}}ORCID{{< /staticref >}}
+- {{< staticref "https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=57282931800" "newtab" >}}ScopusID{{< /staticref >}}
+- {{< staticref "https://www.researchgate.net/profile/Juan-Carlos-Alonso-Valenzuela" "newtab" >}}ResearchGate{{< /staticref >}}
+- {{< staticref "https://publons.com/researcher/4846540/juan-carlos-alonso-valenzuela" "newtab" >}}Publons{{< /staticref >}}
+- {{< staticref "https://bibliometria.us.es/prisma/investigador/7382" "newtab" >}}PRISMA{{< /staticref >}}
