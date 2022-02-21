@@ -23,7 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-# - certificate_url: https://www.datacamp.com
+- date_end: ""
+  # certificate_url: https://www.coursera.org
+  date_start: "2022-02-14"
+  description: ""
+  organization: IEEE Transactions on Software Engineering
+  organization_url: 'https://www.computer.org/csdl/journal/ts'
+  title: Paper accepted at IEEE TSE
+  url: "https://ieeexplore.ieee.org/document/9712422"
 - date_end: ""
   # certificate_url: https://www.coursera.org
   date_start: "2021-11-05"
