@@ -30,8 +30,8 @@ doi: "10.1145/3524846.3527338"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICSE 2022 7th International Workshop on Metamorphic Testing (MET’22)*
-publication_short: In *ICSE 2022 MET 2022*
+publication: In *7th International Workshop on Metamorphic Testing (ICSE MET’22)*
+publication_short: In *MET 2022 (ICSE 2022)*
 
 abstract: Searching and displaying data based on user queries is a pervasive feature of most software applications such as information systems, web portals, and web APIs. The large volume of data managed by these types of systems, henceforth called query-based systems (QBSs), makes them extremely hard to test due to the difficulty to assess whether the output of a query is correct, the so-called test oracle problem. Metamorphic testing has proved to be a very effective approach to alleviate the oracle problem in QBSs, by exploiting the relations among multiple executions of the QBS under test, socalled metamorphic relations (MRs). However, the identification of MRs mostly remains a manual and creative task, limiting the applicability of the approach. In this paper, we propose a method for the automated generation of MRs in QBSs starting from a lightweight specification of the query parameters of the system. Evaluation results show that hundreds of MRs can be automatically identified in real-world systems like IMDb, SkyScanner, or YouTube in just a few seconds.
 
