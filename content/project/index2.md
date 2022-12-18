@@ -1,12 +1,12 @@
 ---
-title: Tecnologías para Sistemas Orientados a Servicios Altamente Fiables y Regulados por Contratos de Usuario
-summary: US-1264651
+title: 'BUBO: Improving the development, reliability and governance of digital services through bot-human collaboration.'
+# summary: US-1264651
 # tags:
 # - Deep Learning
-date: "2020-02-01"
+date: "2022-02-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30657"
+# external_link: "https://investigacion.us.es/sisius/sis_proyecto.php?idproy=30657"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash

@@ -30,6 +30,15 @@ experience:
     date_start: '2021-11-09'
     date_end: ''
     # description:
+
+  - title: Master's Degree in Software Engineering - Cloud, data and IT management
+    company: University of Seville
+    company_url: 'https://www.us.es'
+    company_logo: us
+    location: Seville, Spain
+    date_start: '2021-10-10'
+    date_end: '2022-07-14'
+    description: 'Average: 9.59 (over 10). Subjects with distinction: 5 (including thesis).'
   - title: IT Technician
     company: ISA Group
     company_url: 'https://www.isa.us.es/3.0'

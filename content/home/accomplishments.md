@@ -25,6 +25,22 @@ date_format: Jan 2006
 item:
 - date_end: ""
   # certificate_url: https://www.coursera.org
+  date_start: "2022-11-18"
+  description: ""
+  organization:   ESEC/FSE'22, National University of Singapore
+  # organization_url: 'https://www.us.es'
+  title: Winner of the ACM Student Research Competition at ESEC/FSE'22
+  url: "https://dl.acm.org/doi/abs/10.1145/3540250.3559080"
+- date_end: ""
+  # certificate_url: https://www.coursera.org
+  date_start: "2022-07-15"
+  description: ""
+  organization: University of Seville
+  organization_url: 'https://www.us.es'
+  title: Award for best Master's Thesis of my promotion
+  # url: "https://idus.us.es/handle/11441/127048"
+- date_end: ""
+  # certificate_url: https://www.coursera.org
   date_start: "2022-02-14"
   description: ""
   organization: IEEE Transactions on Software Engineering

@@ -1,12 +1,12 @@
 ---
-title: Tecnologías para Mejorar la Fiabilidad, Personalización y Costes de Operación de Aplicaciones Basadas en Servicios Software y Servicios Basados en Conocimiento
-summary: RTI2018-101204-B-C21
+title: 'HORATIO: Improvements in the reliability, customization and operating costs of software services regulated by user agreements.'
+# summary: RTI2018-101204-B-C21
 # tags:
 # - Deep Learning
 date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://investigacion.us.es/sisius/sis_proyecto.php?ct=1&cs=&idproy=29623"
+# external_link: "https://investigacion.us.es/sisius/sis_proyecto.php?ct=1&cs=&idproy=29623"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
