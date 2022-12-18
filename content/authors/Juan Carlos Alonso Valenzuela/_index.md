@@ -82,7 +82,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CVN_Juan_Carlos_Alonso_Valenzuela.pdf
+  link: uploads/CV_Juan_Carlos_Alonso_Valenzuela.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "javalenzuela@us.es"
