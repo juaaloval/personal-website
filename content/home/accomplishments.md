@@ -25,11 +25,19 @@ date_format: Jan 2006
 item:
 - date_end: ""
   # certificate_url: https://www.coursera.org
+  date_start: "2023-05-25"
+  description: ""
+  organization: ACM SRC Grand Finals
+  organization_url: 'https://src.acm.org/grand-finalists/2023'
+  title: Second Place Winner in ACM SRC Grand Finals 2023
+  url: "https://src.acm.org/grand-finalists/2023"
+- date_end: ""
+  # certificate_url: https://www.coursera.org
   date_start: "2022-11-18"
   description: ""
   organization:   ESEC/FSE'22, National University of Singapore
   # organization_url: 'https://www.us.es'
-  title: Winner of the ACM Student Research Competition at ESEC/FSE'22
+  title: Winner of the ACM Student Research Competition at ESEC/FSE'22 (Graduate Category)
   url: "https://dl.acm.org/doi/abs/10.1145/3540250.3559080"
 - date_end: ""
   # certificate_url: https://www.coursera.org
@@ -39,14 +47,6 @@ item:
   organization_url: 'https://www.us.es'
   title: Award for best Master's Thesis of my promotion
   # url: "https://idus.us.es/handle/11441/127048"
-- date_end: ""
-  # certificate_url: https://www.coursera.org
-  date_start: "2022-02-14"
-  description: ""
-  organization: IEEE Transactions on Software Engineering
-  organization_url: 'https://www.computer.org/csdl/journal/ts'
-  title: Paper accepted at IEEE TSE
-  url: "https://ieeexplore.ieee.org/document/9712422"
 - date_end: ""
   # certificate_url: https://www.coursera.org
   date_start: "2021-11-05"

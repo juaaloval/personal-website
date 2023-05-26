@@ -29,7 +29,7 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: Master's degree in Software Engineering - Cloud, data and IT management
+  - course: Master's degree in Software Engineering - Cloud, data and IT management (Best record of my year)
     institution: University of Seville
     year: 2022
   - course: Bachelor degree in Software Engineering
@@ -94,11 +94,10 @@ highlight_name: false
 ---
 
 
-I am a PhD student at the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}} Applied Software Engineering (ISA) Research Group{{< /staticref >}}. My thesis focuses on creating new techniques for Automated testing of Web APIs by using Artificial Intelligence and Deep Learning. I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany{{< /staticref >}}. I studied my Master's degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}. I am currently working as a Teaching Assistant in the University of Seville.
+I am a PhD student at the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}} Applied Software Engineering (ISA) Research Group{{< /staticref >}}. My thesis focuses on creating new techniques for Automated testing of Web APIs by using Artificial Intelligence and Deep Learning. I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany{{< /staticref >}}. I studied my Master's degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, obtaining the best record of my year. I am currently working as a Teaching Assistant in the University of Seville.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV (English){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CVN_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV (Spanish, CVN format){{< /staticref >}}.
 
 ### Research profiles:
 - {{< staticref "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4HvZgrg2miGMw6WY5WekrEi8iw5UL7JNULyBrqsmj23Yue2ubslGK5SiMzis337ooHIIsHRzIoRELQ6nceLarOLVr1HcUDYbNi8BCQg-1uXVohlT0&user=Ro74TWgAAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}

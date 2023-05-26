@@ -38,7 +38,7 @@ experience:
     location: Seville, Spain
     date_start: '2021-10-10'
     date_end: '2022-07-14'
-    description: 'Average: 9.59 (over 10). Subjects with distinction: 5 (including thesis).'
+    description: 'Average: 9.59 (over 10). Subjects with distinction: 5 (including thesis), best record of my year award.'
   - title: IT Technician
     company: ISA Group
     company_url: 'https://www.isa.us.es/3.0'
