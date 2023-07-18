@@ -29,7 +29,7 @@ item:
   description: ""
   organization: University of Washington, Seattle
   organization_url: 'https://2023.issta.org/track/issta-2023-technical-papers'
-  title: ACM SIGSOFT Distinguished Artifact in ISSTA 2023
+  title: ACM SIGSOFT Distinguished Artifact Award in ISSTA 2023
   url: "https://doi.org/10.5281/zenodo.7970822"
 - date_end: ""
   # certificate_url: https://www.coursera.org
