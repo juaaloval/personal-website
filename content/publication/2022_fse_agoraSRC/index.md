@@ -25,7 +25,7 @@ publishDate: "2022-11-09T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* November, 2022, Singapore
+publication: In *Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* November, 2022, Singapore **(First prize winner)**
 publication_short: In *ESEC/FSE 2022 Student Research Competition* **(First prize winner)**
 
 abstract: 'Test case generation tools for RESTful APIs have proliferated in recent years. However, despite their promising results, they all share the same limitation: they can only detect crashes (i.e., server errors) and disconformities with the API specification. In this paper, we present a technique for the automated generation of test oracles for RESTful APIs through the detection of invariants. In practice, our approach aims to learn the expected properties of the output by analysing previous API requests and their corresponding responses. For this, we extended the popular tool Daikon for dynamic detection of likely invariants. A preliminary evaluation conducted on a set of 8 operations from 6 industrial APIs reveals a total precision of 66.5% (reaching 100% in 2 operations). Moreover, our approach revealed 6 reproducible bugs in APIs with millions of users: Amadeus, GitHub and OMDb.'
