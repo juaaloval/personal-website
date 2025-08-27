@@ -60,7 +60,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/JuanCarlosAlonsoValenzuela
+  link: https://github.com/juaaloval
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-1177-9262
@@ -73,9 +73,9 @@ social:
 #- icon: youtube
 #  icon_pack: fab
 #  link: youtube channel
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/juaaloval
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
