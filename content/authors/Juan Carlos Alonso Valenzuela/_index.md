@@ -99,7 +99,9 @@ highlight_name: false
 
 I am a PhD student at the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}} Applied Software Engineering (ISA) Research Group{{< /staticref >}}. My thesis focuses on creating new techniques for Automated testing of Web APIs by using Artificial Intelligence and Deep Learning. I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany{{< /staticref >}}. I studied my Master's degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, obtaining the best record of my year. I am currently working as a Teaching Assistant in the University of Seville.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Juan_Carlos_Alonso_Valenzuela.pdf" "newtab" >}} Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_jcav_one_page.pdf" "newtab" >}} Download my CV (one page){{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_jcav_academic.pdf" "newtab" >}} Download my CV (academic){{< /staticref >}}.
 
 
 ### Research profiles:
