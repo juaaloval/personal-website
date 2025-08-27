@@ -6,7 +6,7 @@ title: Juan Carlos Alonso Valenzuela
 superuser: true
 
 # Role/position/tagline
-role: PhD Student and Teaching Assistant at the University of Seville
+role: PhD in Computer Science and Researcher on AI-Driven Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.us.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Software Testing, Mining Software Repositories and Natural Language Processing.
+bio: My research interests include Software Testing, Web APIs and Natural Language Processing.
 
 # Interests to show in About widget
 interests:
