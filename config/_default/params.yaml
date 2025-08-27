@@ -21,11 +21,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: javalenzuela@us.es
-phone: +34 954 556 973
-address:
+# phone: +34 954 556 973
+# address:
 #  street: E0.41
 #  city: E0.41
- region: E0.41
+#  region: E0.41
 #  postcode: '94305'
 #  country: United States
 #  country_code: US
@@ -33,8 +33,8 @@ address:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:30 to 17:30'
+# office_hours:
+  # - 'Monday 10:30 to 17:30'
 appointment_url: 'https://calendly.com/javalenzuela/consulta'
 # contact_links:
 #  - icon: twitter
