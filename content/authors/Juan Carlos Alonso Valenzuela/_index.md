@@ -29,6 +29,9 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
+  - course: "PhD in Computer Science: Automated Test Data and Test Oracle Generation for REST APIs"
+    institution: University of Seville
+    year: 2025
   - course: Master's degree in Software Engineering - Cloud, data and IT management (Best record of my year)
     institution: University of Seville
     year: 2022
