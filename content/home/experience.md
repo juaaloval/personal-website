@@ -30,6 +30,22 @@ experience:
     date_start: '2022-09-01'
     date_end: '2025-07-02'
     description: "Graduated with honors (cum laude)."
+  - title: Visiting PhD Student at Università della Svizzera Italiana
+    company: Università della Svizzera italiana (USI)
+    company_url: 'https://www.usi.ch/en'
+    # company_logo: usi
+    location: Lugano, Switzerland
+    date_start: '2024-05-22'
+    date_end: '2024-04-19'
+    description: "Collaborated with Professor Gabriele Bavota, head of the Software Analytics Research Team (SEART), as part of a PhD research stay. The collaboration focused on designing and implementing an approach that leverages Large Language Models to automatically detect failures in REST APIs by analyzing their documentation."
+  - title: Visiting PhD Student at the University of Washington
+    company: University of Washington (UW)
+    company_url: https://www.washington.edu
+    # company_logo: uw
+    location: Seattle, United States
+    date_start: '2023-07-01'
+    date_end: '2023-09-11'
+    description: "Collaborated with Professor Michael D. Ernst, head of the Programming Languages and Software Engineering (PLSE) group and former Microsoft Research scientist, as part of a PhD research visit. The work focused on enhancing AGORA, a technique proposed as part of the PhD for automatically generating test oracles for REST APIs through invariant detection."
   - title: Teaching Assistant
     company: University of Seville
     company_url: 'https://www.us.es'
