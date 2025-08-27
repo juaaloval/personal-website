@@ -33,7 +33,7 @@ experience:
   - title: Visiting PhD Student at Università della Svizzera Italiana
     company: Università della Svizzera italiana (USI)
     company_url: 'https://www.usi.ch/en'
-    # company_logo: usi
+    company_logo: usi
     location: Lugano, Switzerland
     date_start: '2024-05-22'
     date_end: '2024-04-19'
@@ -41,7 +41,7 @@ experience:
   - title: Visiting PhD Student at the University of Washington
     company: University of Washington (UW)
     company_url: https://www.washington.edu
-    # company_logo: uw
+    company_logo: uw
     location: Seattle, United States
     date_start: '2023-07-01'
     date_end: '2023-09-11'
