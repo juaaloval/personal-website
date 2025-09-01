@@ -29,4 +29,4 @@ external_link: "https://huggingface.co/datasets/javalenzuela/okami-dataset"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-The OKAMI (Oracle Knowledge of API Methods for Innovation) dataset provides the manually annotated ground truth of 10,645 unary test oracles from 1,816 response fields across 17 operations of 12 industrial REST APIs. It was created to serve as a reliable benchmark for evaluating techniques for automated test oracle generation.
+The OKAMI (Oracle Knowledge of API Methods for Innovation) dataset provides the manually annotated ground truth of 10,645 unary test oracles from 1,816 response fields across 17 operations of 12 industrial REST APIs; OKAMI was created to serve as a reliable benchmark for evaluating techniques for automated test oracle generation.
