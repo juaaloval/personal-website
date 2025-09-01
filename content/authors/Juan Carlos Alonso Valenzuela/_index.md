@@ -18,9 +18,11 @@ bio: My research interests include Software Testing, Web APIs and Natural Langua
 
 # Interests to show in About widget
 interests:
+- Software Engineering
 - Software Testing
 # - Mining Software Repositories
 - Natural Language Processing
+- Large Language Models
 - Deep Learning
 
 # Education to show in About widget
@@ -97,7 +99,12 @@ highlight_name: false
 ---
 
 
-I am a PhD student at the {{< staticref "https://www.isa.us.es/3.0/" "newtab" >}} Applied Software Engineering (ISA) Research Group{{< /staticref >}}. My thesis focuses on creating new techniques for Automated testing of Web APIs by using Artificial Intelligence and Deep Learning. I studied a degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, and attended the fourth year at the {{< staticref "https://www.uni-mannheim.de" "newtab" >}}University of Mannheim, Germany{{< /staticref >}}. I studied my Master's degree in Software Engineering at the {{< staticref "https://www.us.es" "newtab" >}}University of Seville{{< /staticref >}}, obtaining the best record of my year. I am currently working as a Teaching Assistant in the University of Seville.
+I am a software engineer and researcher with a strong academic background and a passion for building practical tools that solve real-world problems. I completed my PhD in Computer Science, specializing in automated testing of REST APIs. My work combines large-scale empirical experimentation, rigorous software engineering, and AI-based solutions, resulting in award-winning publications and tools that uncovered over 40 real bugs in widely used platforms like GitHub, YouTube, and DHL, leading to bug fixes and documentation updates.
+
+My work is deeply tool-oriented, combining insights from software testing, machine learning, NLP, and generative AI to create automated solutions. I have published research on the use of Large Language Models (LLMs) for generating test oracles and I am actively interested in how LLMs can be integrated with existing developer tools to enhance their intelligence and productivity.
+
+I am now seeking opportunities in industry where I can apply my expertise in software testing, LLMs, and NLP to design intelligent, reliable, and scalable systems. I am passionate about continuous learning, exploring new technologies, and building impactful tools at the intersection of AI and software engineering.
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_jcav_one_page.pdf" "newtab" >}} Download my CV (one page){{< /staticref >}}.
 

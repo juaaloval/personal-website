@@ -1,12 +1,12 @@
 ---
-title: 'HORATIO: Improvements in the reliability, customization and operating costs of software services regulated by user agreements.'
-# summary: RTI2018-101204-B-C21
+title: 'Beet'
+# summary: US-1264651
 # tags:
 # - Deep Learning
-date: "2019-01-01"
+date: "2023-07-01"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://investigacion.us.es/sisius/sis_proyecto.php?ct=1&cs=&idproy=29623"
+external_link: "https://github.com/isa-group/Beet"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -15,7 +15,7 @@ date: "2019-01-01"
 # links:
 # - icon: twitter
 #   icon_pack: fab
-#   name: Follow 
+#   name: Follow
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
@@ -29,6 +29,7 @@ date: "2019-01-01"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+Beet is a Daikon front-end (also known as instrumenter) that converts any OpenAPI specification and a collection of API requests (and responses) into a format processable by the Daikon invariant detector; Beet is one of the core components of AGORA+, an approach for the Automated Generation of test Oracles for REST APIs through the detection of invariants (properties of the output that should always hold).
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
